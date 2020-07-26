@@ -1,0 +1,127 @@
+avatar:
+  enable: true
+  url: https://cdn.jsdelivr.net/gh/MEMZSONBILI/PicGoBed@master/images/20200625174516.jpg
+  rounded: true
+  opacity: 1
+  mickey_mouse: false
+
+banner:
+  enable: true
+  title: 
+    - Eden
+    - 瞎
+    - 写
+    - 小
+    - 屋
+  src: /js/ui/banner.js
+  border: true
+  cloud:
+    enable: true
+    color: "white"
+  go_down:
+    enable: true
+    icon: icon-arrow-down-s-line
+
+bg_image:
+  enable: true
+  url: https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200726004452.png
+  dark: https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200726004424.jpg
+  opacity: 0.8
+
+comment:
+  tips:
+    - Valine现在闭源，我也不知道我会用到什么时候
+    - 所以请做好某一天看到评论[数据删除]的一天。
+    - 如果可能，请用下面的GitHub Issues留言。
+    - 如果没有本文Issues，可以使用Comment新建。（下一版本的更新内容预定）
+
+creative_commons:
+  license: by
+  post: true
+  language: deed.zh
+  clipboard: false
+
+google_analytics:
+  enable: true
+  id: UA-173598389-1
+
+github_issues:
+  enable: true
+  username: EdenJohnson2006
+  repository: EdenJohnson2006.github.io
+  filters: is:issue
+
+mode: auto
+
+pages:
+  - name: 我的小伙伴们
+    url: /links/index.html
+    icon: icon-genderless-line
+    color: dodgerblue
+
+reward:
+  enable: true
+  icon: icon-hand-coin-line
+  comment: 不知道有没有帮到你...
+  methods:
+    - name: 支付宝
+      path: https://cdn.jsdelivr.net/gh/MEMZSONBILI/PicGoBed@master/images/20200627162034.JPG
+      color: "#00A3EE"
+      icon: icon-alipay-line
+    - name: QQ 支付
+      path: https://cdn.jsdelivr.net/gh/MEMZSONBILI/PicGoBed@master/images/20200627162126.JPG
+      color: "#12B7F5"
+      icon: icon-qq-line
+    - name: 微信支付
+      path: https://cdn.jsdelivr.net/gh/MEMZSONBILI/PicGoBed@master/images/20200627161946.JPG
+      color: "#2DC100"
+      icon: icon-wechat-pay-line
+
+social:
+  - name: RSS
+    link: /atom.xml # config.feed.path
+    icon: icon-rss-line
+    color: orange
+  - name: QQ
+    link: https://wpa.qq.com/msgrd?v=3&uin=1261087020&site=qq&menu=yes
+    icon: icon-qq-line
+    color: "#12B7F5"
+  - name: GitHub
+    link: https://github.com/EdenJohnson2006
+    icon: icon-github-line
+    color: "#181717"
+  - name: E-Mail
+    link: mailto:me@edenjohnson.me
+    icon: icon-mail-line
+    color: "#8E71C1"
+  - name: 网易云音乐
+    link: https://music.163.com/#/user/home?id=1473380275
+    icon: icon-netease-cloud-music-line
+    color: "#C10D0C"
+  - name: 哔哩哔哩动画
+    link: https://space.bilibili.com/302506403
+    icon: icon-bilibili-line
+    color: "#FF8EB3"
+  - name: Twitter
+    link: https://twitter.com/EdenJoh70017869
+    icon: icon-twitter-line
+    color: "#1da1f2"
+  - name: Telegram
+    link: https://t.me/edenjohns
+    icon: icon-telegram-line
+    color: "#0088CC"
+
+valine:
+  enable: true
+  appId: 3FAnMe3WyDxruBAWIvXJtz05-MdYXbMMI
+  appKey: Lyu0kX5q9Vyboo1LgfMfSS5T
+  placeholder: 发挥你的想象，给文章添砖加瓦吧！（诶等等，你要干啥，我的域名不想丢啊）
+  meta:
+    - nick
+    - mail
+    - link
+  pageSize: 10 
+  lang: zh-CN
+
+wordcloud:
+  enable: true
