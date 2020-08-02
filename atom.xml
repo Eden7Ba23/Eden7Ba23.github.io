@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://edenjohnson.me/"/>
-  <updated>2020-07-27T12:44:29.000Z</updated>
+  <updated>2020-08-02T12:50:28.000Z</updated>
   <id>https://edenjohnson.me/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>IPv6...？</title>
+    <link href="https://edenjohnson.me/2020/08/01/IPv6-%EF%BC%9F/"/>
+    <id>https://edenjohnson.me/2020/08/01/IPv6-%EF%BC%9F/</id>
+    <published>2020-08-01T02:51:40.000Z</published>
+    <updated>2020-08-02T12:50:28.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>要上网课了。</p><p>我打开我的电脑，关掉Wi-Fi，插上网线，打开网络偏好设置…</p><p>好了，我的AX88772A绿了…</p><p>嗯？IPv6地址？</p><p><img src="https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200801105956.png" alt="" loading="lazy"></p><p>我记得前几天没有这个东西啊</p><p><img src="https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200801111045.png" alt="" loading="lazy"></p><p>不敢相信的我还打开了我的网关</p><p><img src="https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200801162321.png" alt="" loading="lazy"></p><p>是真IPv6没错了</p><p>然后是 <a href="https://test-ipv6.com" target="_blank" rel="noopener">https://test-ipv6.com</a> 的信息</p><p>HTTP和HTTPS得到了相同的结果</p><p><img src="https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200802195753.png" alt="" loading="lazy"></p><p><img src="https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200802200645.png" alt="" loading="lazy"></p><p>可以看到。都是满满的10分（）</p><p>只不过<a href="https://test-ipv6.com" target="_blank" rel="noopener">https://test-ipv6.com</a> 给出的是…？分？（满分20分）</p><p>（因为他们的服务器过于不稳定所以出来了好几个奇奇怪怪的分）</p><p>（从8分到16分都有）</p><p>（下图是16分的一张）</p><p><img src="https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200802201728.png" alt="" loading="lazy"></p><p>（别问我DNS6+IP6为啥是红的</p><p>（我TM都不知道</p><p>（我明明DNS地址都是IPv6的了</p><p>（谁知道这东西抽了什么疯.tar.xz））））</p><hr><p>今天下BT的时候看到了好几个IPv6</p><p><img src="https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200802204454.png" alt="" loading="lazy"></p><p>地址如下：</p><blockquote><p>240e:390:a3f:dd61:90c6:3626:96d4:2518</p><p>2409:8a00:185e:9fb0:257c:42ad:b063:aa41</p><p>2409:8a00:185e:9fb0:fcee:54e3:97d:9a64</p><p>2409:8a62:379:2ba0:8e18:d9ff:feea:88b6</p></blockquote><p>这四个查出来如下</p><p><img src="https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200802204646.png" alt="" loading="lazy"></p><p><img src="https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200802204621.png" alt="" loading="lazy"></p><p><img src="https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200802204704.png" alt="" loading="lazy"></p><p><img src="https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200802204728.png" alt="" loading="lazy"></p><hr><p>说到IPv6，注意一下页脚。</p><p>好了，跑了，去给我的<!-- 科学方式-->MC服务器开IPv6去（）</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;要上网课了。&lt;/p&gt;
+&lt;p&gt;我打开我的电脑，关掉Wi-Fi，插上网线，打开网络偏好设置…&lt;/p&gt;
+&lt;p&gt;好了，我的AX88772A绿了…&lt;/p&gt;
+&lt;p&gt;嗯？IPv6地址？&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/EdenJo
+      
+    
+    </summary>
+    
+    
+      <category term="科技" scheme="https://edenjohnson.me/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="网络" scheme="https://edenjohnson.me/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
   
   <entry>
     <title>关于memz-group.page的一些事情...</title>
