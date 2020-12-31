@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://edenjohnson.me/"/>
-  <updated>2020-09-05T01:23:40.526Z</updated>
+  <updated>2020-12-31T09:02:20.331Z</updated>
   <id>https://edenjohnson.me/</id>
   
   <author>
@@ -15,6 +15,66 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我已经放弃了任何尝试解释我在做什么的权利。</title>
+    <link href="https://edenjohnson.me/2020/12/31/%E6%88%91%E5%B7%B2%E7%BB%8F%E6%94%BE%E5%BC%83%E4%BA%86%E4%BB%BB%E4%BD%95%E5%B0%9D%E8%AF%95%E8%A7%A3%E9%87%8A%E6%88%91%E5%9C%A8%E5%81%9A%E4%BB%80%E4%B9%88%E7%9A%84%E6%9D%83%E5%88%A9%E3%80%82/"/>
+    <id>https://edenjohnson.me/2020/12/31/%E6%88%91%E5%B7%B2%E7%BB%8F%E6%94%BE%E5%BC%83%E4%BA%86%E4%BB%BB%E4%BD%95%E5%B0%9D%E8%AF%95%E8%A7%A3%E9%87%8A%E6%88%91%E5%9C%A8%E5%81%9A%E4%BB%80%E4%B9%88%E7%9A%84%E6%9D%83%E5%88%A9%E3%80%82/</id>
+    <published>2020-12-31T08:59:06.000Z</published>
+    <updated>2020-12-31T09:02:20.331Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天上完体育课。</p><p>那个燕岗又来了。</p><p>他问我你的敌人是谁？</p><p>我说“是某个在班里各种传播我谣言的人。”</p><p>结果他来了句：“哦你和全班为敌啊。”</p><p>…</p><p>我已经放弃了任何尝试解释我在做什么的权利。</p><p>你们认为我在干啥，我 就在干啥。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;今天上完体育课。&lt;/p&gt;
+&lt;p&gt;那个燕岗又来了。&lt;/p&gt;
+&lt;p&gt;他问我你的敌人是谁？&lt;/p&gt;
+&lt;p&gt;我说“是某个在班里各种传播我谣言的人。”&lt;/p&gt;
+&lt;p&gt;结果他来了句：“哦你和全班为敌啊。”&lt;/p&gt;
+&lt;p&gt;…&lt;/p&gt;
+&lt;p&gt;我已经放弃了任何尝试解释我在做什么的权利。&lt;/p
+      
+    
+    </summary>
+    
+    
+      <category term="生活" scheme="https://edenjohnson.me/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Eden的Arch入教史</title>
+    <link href="https://edenjohnson.me/2020/12/20/Eden%E7%9A%84Arch%E5%85%A5%E6%95%99%E5%8F%B2/"/>
+    <id>https://edenjohnson.me/2020/12/20/Eden%E7%9A%84Arch%E5%85%A5%E6%95%99%E5%8F%B2/</id>
+    <published>2020-12-20T09:02:51.000Z</published>
+    <updated>2020-12-31T09:18:32.889Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p> [eden] 草我都3个月没更新了…</p></blockquote><p>如这个图所示 这就是我现在用的ArchLinux配备Plasma的样子：</p><p><a href="https://imgchr.com/i/raNmyn" target="_blank" rel="noopener"><img src="https://s3.ax1x.com/2020/12/20/raNmyn.png" alt="raNmyn.png" loading="lazy"></a></p><p>（PicGo暂时爆炸了所以先上路过）</p><blockquote><p>[eden] 诶我是什么时候用上Arch来着？</p></blockquote><p>貌似是暑假吧…</p><p>Windows用腻了就上了Linux和黑苹果。</p><p>因为黑苹果的网卡实在不敢恭维就换到了Linux。</p><p>最早是Deepin 20 社区版，后面就第一次入了Arch神教</p><p>（第一次的图片已经没有了 唯一印记就是和ChiTang的空间对话）</p><p>第一次用ArchLinux是配的GNOME</p><p>后面因为各种原因又开始在各种系统见反复横跳</p><p>直到10月份才稳定下来 使用ArchLinux。</p><p>后面又尝试了Plasma，经历了一定的调整</p><p>总算有了这个样子。</p><p>当然也遇到了喜闻乐见的滚挂（更新完KDE的主题爆炸）</p><blockquote><p>[eden] 是不是该介绍一下现在的样子？</p></blockquote><p>现在的样子…</p><p>等我先翻一下Global Theme…</p><p>哦，好了，知道了。</p><p>现在是Aritim-Dark主题+DeepinV20-Dark光标+Latte Dock栏</p><p>和上面的图的差距可能只是一个光标。</p><p>当然最近也把Typora统一成了暗色调。</p><blockquote><p>[eden] 那你告诉我 <a href="https://aur.archlinux.org/packages/com.qq.tim.spark/" target="_blank" rel="noopener">com.qq.tim.spark</a> 怎么黑色化吗！</p></blockquote><p>再等等…又有点想不起来了草…</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt; [eden] 草我都3个月没更新了…&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;如这个图所示 这就是我现在用的ArchLinux配备Plasma的样子：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://imgchr.com/i/raNmyn&quot; t
+      
+    
+    </summary>
+    
+    
+      <category term="科技" scheme="https://edenjohnson.me/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="Linux" scheme="https://edenjohnson.me/tags/Linux/"/>
+    
+  </entry>
   
   <entry>
     <title>没更新的一个月里 我都干了些啥（）</title>
