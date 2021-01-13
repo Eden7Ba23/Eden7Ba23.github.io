@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://edenjohnson.me/"/>
-  <updated>2020-12-31T09:02:20.331Z</updated>
+  <updated>2021-01-12T00:02:02.435Z</updated>
   <id>https://edenjohnson.me/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>研（luan）究（fan）一下hexo-blog-encrypt的源代码吧（）</title>
+    <link href="https://edenjohnson.me/2021/01/12/%E7%A0%94%EF%BC%88luan%EF%BC%89%E7%A9%B6%EF%BC%88fan%EF%BC%89%E4%B8%80%E4%B8%8Bhexo-blog-encrypt%E7%9A%84%E6%BA%90%E4%BB%A3%E7%A0%81%E5%90%A7%EF%BC%88%EF%BC%89/"/>
+    <id>https://edenjohnson.me/2021/01/12/%E7%A0%94%EF%BC%88luan%EF%BC%89%E7%A9%B6%EF%BC%88fan%EF%BC%89%E4%B8%80%E4%B8%8Bhexo-blog-encrypt%E7%9A%84%E6%BA%90%E4%BB%A3%E7%A0%81%E5%90%A7%EF%BC%88%EF%BC%89/</id>
+    <published>2021-01-11T23:29:28.000Z</published>
+    <updated>2021-01-12T00:02:02.435Z</updated>
+    
+    <content type="html"><![CDATA[<p>最好不要知道为何我要研究一个加密插件。</p><p>最近突然对 <a href="https://github.com/D0n9X1n/hexo-blog-encrypt/blob/master/index.js#L126" target="_blank" rel="noopener">hexo-blog-encrypt</a> 这款插件有一些兴趣，就花了一点时间去阅览主要的代码index.js。</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">const</span> crypto = <span class="built_in">require</span>(<span class="string">'crypto'</span>);</span><br><span class="line"><span class="keyword">const</span> fs = <span class="built_in">require</span>(<span class="string">'hexo-fs'</span>);</span><br><span class="line"><span class="keyword">const</span> path = <span class="built_in">require</span>(<span class="string">'path'</span>);</span><br><span class="line"><span class="keyword">const</span> log = <span class="built_in">require</span>(<span class="string">'hexo-log'</span>)(&#123; <span class="string">'debug'</span>: <span class="literal">false</span>, <span class="string">'slient'</span>: <span class="literal">false</span> &#125;);</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> defaultConfig = &#123;</span><br><span class="line">  <span class="string">'abstract'</span>: <span class="string">'Here\'s something encrypted, password is required to continue reading.'</span>,</span><br><span class="line">  <span class="string">'message'</span>: <span class="string">'Hey, password is required here.'</span>,</span><br><span class="line">  <span class="string">'theme'</span>: <span class="string">'default'</span>,</span><br><span class="line">  <span class="string">'wrong_pass_message'</span>: <span class="string">'Oh, this is an invalid password. Check and try again, please.'</span>,</span><br><span class="line">  <span class="string">'wrong_hash_message'</span>: <span class="string">'OOPS, these decrypted content may changed, but you can still have a look.'</span>,</span><br><span class="line">  <span class="string">'silent'</span>: <span class="literal">false</span>,</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure><p>这里看起来设置了一些…变量？（C与Python玩家瑟瑟发抖）</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">const</span> keySalt = textToArray(<span class="string">'hexo-blog-encrypt的作者们都是大帅比!'</span>);</span><br><span class="line"><span class="keyword">const</span> ivSalt = textToArray(<span class="string">'hexo-blog-encrypt是地表最强Hexo加密插件!'</span>);</span><br></pre></td></tr></table></figure><p><strong>禁止夹带私货（）</strong></p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">// As we can't detect the wrong password with AES-CBC,</span></span><br><span class="line"><span class="comment">// so adding an empty tag and check it when decrption.</span></span><br><span class="line"><span class="keyword">const</span> knownPrefix = <span class="string">"&lt;hbe-prefix&gt;&lt;/hbe-prefix&gt;"</span>;</span><br></pre></td></tr></table></figure><p>//由于我们无法使用AES-CBC检测到错误的密码， //因此，请添加一个空标签，并在进行减斜处理时进行检查？</p><p>我是没看懂注释，倒是hbe-prefix我见过：</p><p><a href="https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images/20210112075848.png" target="_blank" rel="noopener">2</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;最好不要知道为何我要研究一个加密插件。&lt;/p&gt;
+&lt;p&gt;最近突然对 &lt;a href=&quot;https://github.com/D0n9X1n/hexo-blog-encrypt/blob/master/index.js#L126&quot; target=&quot;_blank&quot; rel=&quot;no
+      
+    
+    </summary>
+    
+    
+      <category term="科技" scheme="https://edenjohnson.me/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="Linux" scheme="https://edenjohnson.me/tags/Linux/"/>
+    
+  </entry>
   
   <entry>
     <title>我已经放弃了任何尝试解释我在做什么的权利。</title>
