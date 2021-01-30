@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://edenjohnson.me/"/>
-  <updated>2021-01-15T11:31:45.776Z</updated>
+  <updated>2021-01-30T11:50:38.340Z</updated>
   <id>https://edenjohnson.me/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>换域名了</title>
+    <link href="https://edenjohnson.me/2021/01/30/%E6%8D%A2%E5%9F%9F%E5%90%8D%E4%BA%86/"/>
+    <id>https://edenjohnson.me/2021/01/30/%E6%8D%A2%E5%9F%9F%E5%90%8D%E4%BA%86/</id>
+    <published>2021-01-30T04:08:07.000Z</published>
+    <updated>2021-01-30T11:50:38.340Z</updated>
+    
+    <content type="html"><![CDATA[<p>换域名了</p><p>白嫖的 edenjohnson.me 没法续期只能换了:(</p><!-- @域名会留给分流页面,有很大可能会搞个IDC --><!-- https://blog.edenjohnson.cyou/Rabbit-20210130.txt -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;换域名了&lt;/p&gt;
+&lt;p&gt;白嫖的 edenjohnson.me 没法续期只能换了:(&lt;/p&gt;
+&lt;!-- @域名会留给分流页面,有很大可能会搞个IDC --&gt;
+
+&lt;!-- https://blog.edenjohnson.cyou/Rabbit-20210130.txt --&gt;
+      
+    
+    </summary>
+    
+    
+      <category term="科技" scheme="https://edenjohnson.me/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="站点" scheme="https://edenjohnson.me/tags/%E7%AB%99%E7%82%B9/"/>
+    
+  </entry>
   
   <entry>
     <title>在任意有TWRP 有SD卡的手机上安装Debian（在Android设备上原生运行Debian实操）</title>
