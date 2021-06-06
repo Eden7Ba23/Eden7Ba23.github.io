@@ -189,7 +189,7 @@ body::before {
   width: 100%;
   height: 100%;
   z-index: -1;
-  background-image: url("https://cdn.jsdelivr.net/gh/EdenJohnson2006/images20200726004452.png");
+  background-image: url("https://pic.edenjohnson.cyou/images/images20200726004452.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -1995,7 +1995,7 @@ body::before {
     color: var(--hty-text-color);
   }
   :root:not([data-user-color-scheme]) body::before {
-    background-image: url("https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200726004424.jpg");
+    background-image: url("https://pic.edenjohnson.cyou/images/PicGoBed/images20200726004424.jpg");
   }
   :root:not([data-user-color-scheme]) .char {
     background-color: rgba(0,0,0,0.5);
@@ -2071,7 +2071,7 @@ body::before {
   color: var(--hty-text-color);
 }
 [data-user-color-scheme='dark'] body::before {
-  background-image: url("https://cdn.jsdelivr.net/gh/EdenJohnson2006/PicGoBed/images20200726004424.jpg");
+  background-image: url("https://pic.edenjohnson.cyou/images/PicGoBed/images20200726004424.jpg");
 }
 [data-user-color-scheme='dark'] .char {
   background-color: rgba(0,0,0,0.5);
