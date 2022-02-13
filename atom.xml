@@ -236,6 +236,30 @@
   </entry>
   
   <entry>
+    <title>一些个人频道的新设计...</title>
+    <link href="https://blog.edenjohnson.cyou/2021/03/06/something-new-about-video-channel/"/>
+    <id>https://blog.edenjohnson.cyou/2021/03/06/something-new-about-video-channel/</id>
+    <published>2021-03-06T08:47:41.000Z</published>
+    <updated>2022-02-13T11:21:02.723Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>[eden] AndyMills 2006，AndyMills 2006，AndyMills 2006…诶？AndyMills的缩写是AM诶！</p></blockquote><p>嗯，咳咳。</p><p>为了<del>防止我忘记我的GPG密码</del>，我准备写个文章，来写一写我新的频道的包装设计。</p><p>说实话我觉得我是个<strong>彻底的设计盲</strong>，所以有任何意见和善提出，Thanks.</p><p>废话少说，先上头像：</p><p><img src="https://pic.edenjohnson.cyou/images/no-time/AndyMills%E5%A4%B4%E5%83%8F.png" loading="lazy"></p><p>这两行文字都使用了OPPO Sans，所以大家<del>不用担心我成张三</del></p><p>后面两个三角形都是用Keynote里面的，透明度70%，上面的阴影60%。</p><p>看起来还算不错，但是我国的两会期间吗…算了，等之后吧。:-)</p><hr><p>等等我电脑头图去哪里了？<del>等我先找到再继续跟你们讲啊。</del></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;[eden] AndyMills 2006，AndyMills 2006，AndyMills 2006…诶？AndyMills的缩写是AM诶！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;嗯，咳咳。&lt;/p&gt;
+&lt;p&gt;为了&lt;del&gt;防止我忘记我的GPG密</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>lijiakai常用的多重加密的判断方式</title>
     <link href="https://blog.edenjohnson.cyou/2021/02/24/judgment-method-of-multiple-encryption/"/>
     <id>https://blog.edenjohnson.cyou/2021/02/24/judgment-method-of-multiple-encryption/</id>
@@ -461,51 +485,22 @@
   </entry>
   
   <entry>
-    <title>给被苹果遗弃的iPhone6 Plus越个狱吧</title>
-    <link href="https://blog.edenjohnson.cyou/2020/07/27/jailbreak-iphone6plus-with-uncover/"/>
-    <id>https://blog.edenjohnson.cyou/2020/07/27/jailbreak-iphone6plus-with-uncover/</id>
-    <published>2020-07-27T08:16:44.000Z</published>
-    <updated>2022-01-29T12:37:32.068Z</updated>
+    <title>IPv6...？</title>
+    <link href="https://blog.edenjohnson.cyou/2020/08/01/ipv6/"/>
+    <id>https://blog.edenjohnson.cyou/2020/08/01/ipv6/</id>
+    <published>2020-08-01T10:51:40.000Z</published>
+    <updated>2022-02-13T11:21:02.723Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://pic.edenjohnson.cyou/images/PicGoBed/images/20200727162103.jpg" alt=""></p><p>(当然这部iPhone6 Plus并不是我的 而是我大姑的)</p><p>我现在在我祖母家。</p><p>我表姐随手拿起手边我大姑的iPhone6 Plus，说:充上电还能用吗？我回答:那是肯定的。</p><p>iPhone6系的iOS版本永远停在了12.4.8 当时这一决定可谓引起了轩然大波，因为在我和很多iOS用户以前的印象里，每一代iOS更新最多只遗弃一代设备的…这回却是把iPhone5s和iPhone6系一刀砍掉…</p><p>对了，这部iPhone6 Plus是官方的售后机，型号N开头…</p><p><img src="https://pic.edenjohnson.cyou/images/PicGoBed/images/20200727161835.png" alt=""></p><p><img src="https://pic.edenjohnson.cyou/images/PicGoBed/images/20200727161911.png" alt=""></p><p>“就很离谱”</p><p>扯到哪里去了</p><p>好了 线刷12.4.8完成了，让我们越狱吧</p><p>这回我准备用unc0ver试一把越狱，毕竟我上一部iPhone还是iPhone5</p><p>线打开unc0ver官网 </p><p>点Download选项</p><p>选择Windows</p><p>(再次强调 我在我祖母家 电脑是我表姐的 我的小米笔记本Air早就装了黑苹果)</p><p><img src="https://pic.edenjohnson.cyou/images/PicGoBed/images/20200727162557.png" alt=""></p><p>第一部是要安装iTunes</p><p><img src="https://pic.edenjohnson.cyou/images/PicGoBed/images/20200727162622.png" alt=""></p><p>然后电脑重启了</p><p><img src="https://pic.edenjohnson.cyou/images/PicGoBed/images/20200727162632.jpg" alt=""></p><p>现在iTunes正常了 连接到了iPhone</p><p><img src="https://pic.edenjohnson.cyou/images/PicGoBed/images/20200727163215.png" alt=""></p><p>然后下载altstore</p><p><img src="https://pic.edenjohnson.cyou/images/PicGoBed/images/20200727163253.png" alt=""></p><p><img src="https://pic.edenjohnson.cyou/images/PicGoBed/images/20200727163312.png" alt=""></p><p>解压</p><p><img src="https://pic.edenjohnson.cyou/images/PicGoBed/images/20200727163327.png" alt=""></p><p>安装</p><p>然后打开</p><p><img src="https://pic.edenjohnson.cyou/images/PicGoBed/images/20200727163350.png" alt=""></p><p><img src="https://pic.edenjohnson.cyou/images/PicGoBed/images/20200727163739.jpg" alt=""></p><p>尝试安装时…</p><p><img src="https://pic.edenjohnson.cyou/images/PicGoBed/images/20200727163403.png" alt=""></p><p>啊这…</p><p>算了算了 装上吧</p><p><img src="https://pic.edenjohnson.cyou/images/PicGoBed/images/20200727163416.png" alt=""></p><p>然后又来重启</p><p><img src="https://pic.edenjohnson.cyou/images/PicGoBed/images/20200727163511.png" alt=""></p><p>…</p><p>现在就可以安装了吧</p><p><img src="https://pic.edenjohnson.cyou/images/PicGoBed/images/20200727163527.png" alt=""></p><p>额…</p><p>看起来需要试试别的办法了</p><p>要不…直接手机安装？</p><p><img src="https://pic.edenjohnson.cyou/images/PicGoBed/images/20200727163548.png" alt=""></p><p>第一步 先越狱</p><p>用爱思助手，结果</p><p>他直接给我装了一个unc0ver…</p><p>果不其然 失败</p><p><img src="https://pic.edenjohnson.cyou/images/PicGoBed/images/20200727163607.png" alt=""></p><p>让我重启一下手机</p><p><img src="https://pic.edenjohnson.cyou/images/PicGoBed/images/20200727163842.jpg" alt=""></p><p>然后我又试了几次</p><p>好了成功了</p><p><img src="https://pic.edenjohnson.cyou/images/PicGoBed/images/20200727164658.png" alt=""></p><p>接下来打开unc0ver</p><p>尝试一下</p><p>(此处省略不下10次的卡第二步和闪退和UI重启和硬件重启)</p><p>然后我Google一下</p><p>才发现 我没开飞行模式</p><p>草 死了</p><p>于是它很顺利的通过了</p><p>重启了</p><p>重启后 继续越狱</p><p>结果又是2/31硬件重启草</p><p>重启后我又试了一次</p><p>此时28/31卡了很长时间</p><p>然后 它成功了</p><p>ohhhhhhhhhhhhhhh</p><p>Cydia也能正常打开</p><p>虽然重启后需要再越狱一遍</p><p>但这已经是比较好的方法了</p><p>(有机会我试试checkra1n)</p><p>（但那估计需要很久以后了…</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://pic.edenjohnson.cyou/images/PicGoBed/images/20200727162103.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;(当然这部iPhone6 Plus并不是我的 而是我大姑的)&lt;/p&gt;
-&lt;p&gt;我现</summary>
-      
-    
-    
-    
-    <category term="科技" scheme="https://blog.edenjohnson.cyou/categories/%E7%A7%91%E6%8A%80/"/>
-    
-    
-    <category term="刷机" scheme="https://blog.edenjohnson.cyou/tags/%E5%88%B7%E6%9C%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>变了？没变？</title>
-    <link href="https://blog.edenjohnson.cyou/2020/07/25/changed/"/>
-    <id>https://blog.edenjohnson.cyou/2020/07/25/changed/</id>
-    <published>2020-07-25T17:41:18.000Z</published>
-    <updated>2022-01-29T12:37:32.068Z</updated>
-    
-    <content type="html"><![CDATA[<p>发现不一样了吗？</p><p>现在时间：2020年7月26日1时42分。</p><p>博客主体恢复完毕。</p><p>我太困了，起来再完善这篇文章吧。</p><hr><p>我回来了。</p><p>现在时间：2020年7月26日11时30分。</p><p>答案是变了，变了很多。</p><p>因为这个博客被重置了一次。</p><p><img src="https://pic.edenjohnson.cyou/images/images20200726115111.png" alt=""></p><p>7月16日，我尝试换OpenCore引导。</p><p>结果一换，我的黑苹果被锁了…</p><p><img src="https://pic.edenjohnson.cyou/images/images20200726130940.jpg" alt=""><strong>grass(Chinese and Japanese)</strong></p><p>于是我抹盘重装了</p><p><img src="https://pic.edenjohnson.cyou/images/images20200726163951.jpg" alt=""></p><p><img src="https://pic.edenjohnson.cyou/images/images20200726164154.jpg" alt=""></p><p>为什么我这么大胆呢？</p><p>因为我还以为我的所有数据在移动硬盘里。</p><p><img src="https://pic.edenjohnson.cyou/images/images20200726164345.jpg" alt=""></p><p>直到我装完后的18点20分…</p><p><img src="https://pic.edenjohnson.cyou/images/images20200726164650.jpg" alt=""></p><p>WOC我把我博客数据给抹了草啊啊啊啊啊</p><p>这还没完，我尝试给这块移动硬盘重装Ventoy</p><p>（用的虚拟机）</p><p>结果全移动硬盘也被抹了…</p><p>（求我此时的心理阴影面积.tar.xz）</p><hr><p>所以我才鸽这么久才更…</p><p>说多全是泪，不说了…</p><!-- 我能说我当场就傻了了吗 -->]]></content>
+    <content type="html"><![CDATA[<p>要上网课了。</p><p>我打开我的电脑，关掉Wi-Fi，插上网线，打开网络偏好设置…</p><p>好了，我的AX88772A绿了…</p><p>嗯？IPv6地址？</p><p><img src="https://pic.edenjohnson.cyou/images/PicGoBed/images/20200801105956.png" loading="lazy"></p><p>我记得前几天没有这个东西啊</p><p><img src="https://pic.edenjohnson.cyou/images/PicGoBed/images/20200801111045.png" loading="lazy"></p><p>不敢相信的我还打开了我的网关</p><p><img src="https://pic.edenjohnson.cyou/images/PicGoBed/images/20200801162321.png" loading="lazy"></p><p>是真IPv6没错了</p><p>然后是 <a href="https://test-ipv6.com/">https://test-ipv6.com</a> 的信息</p><p>HTTP和HTTPS得到了相同的结果</p><p><img src="https://pic.edenjohnson.cyou/images/PicGoBed/images/20200802195753.png" loading="lazy"></p><p><img src="https://pic.edenjohnson.cyou/images/PicGoBed/images/20200802200645.png" loading="lazy"></p><p>可以看到。都是满满的10分（）</p><p>只不过<a href="https://test-ipv6.com/">https://test-ipv6.com</a> 给出的是…？分？（满分20分）</p><p>（因为他们的服务器过于不稳定所以出来了好几个奇奇怪怪的分）</p><p>（从8分到16分都有）</p><p>（下图是16分的一张）</p><p><img src="https://pic.edenjohnson.cyou/images/PicGoBed/images/20200802201728.png" loading="lazy"></p><p>（别问我DNS6+IP6为啥是红的</p><p>（我TM都不知道</p><p>（我明明DNS地址都是IPv6的了</p><p>（谁知道这东西抽了什么疯.tar.xz））））</p><hr><p>今天下BT的时候看到了好几个IPv6</p><p><img src="https://pic.edenjohnson.cyou/images/PicGoBed/images/20200802204454.png" loading="lazy"></p><p>地址如下：</p><blockquote><p>240e:390:a3f:dd61:90c6:3626:96d4:2518</p><p>2409:8a00:185e:9fb0:257c:42ad:b063:aa41</p><p>2409:8a00:185e:9fb0:fcee:54e3:97d:9a64</p><p>2409:8a62:379:2ba0:8e18:d9ff:feea:88b6</p></blockquote><p>这四个查出来如下</p><p><img src="https://pic.edenjohnson.cyou/images/PicGoBed/images/20200802204646.png" loading="lazy"></p><p><img src="https://pic.edenjohnson.cyou/images/PicGoBed/images/20200802204621.png" loading="lazy"></p><p><img src="https://pic.edenjohnson.cyou/images/PicGoBed/images/20200802204704.png" loading="lazy"></p><p><img src="https://pic.edenjohnson.cyou/images/PicGoBed/images/20200802204728.png" loading="lazy"></p><hr><p>说到IPv6，注意一下页脚。</p><p>好了，跑了，去给我的<!-- 科学方式-->MC服务器开IPv6去（）</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;发现不一样了吗？&lt;/p&gt;
-&lt;p&gt;现在时间：2020年7月26日1时42分。&lt;/p&gt;
-&lt;p&gt;博客主体恢复完毕。&lt;/p&gt;
-&lt;p&gt;我太困了，起来再完善这篇文章吧。&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;我回来了。&lt;/p&gt;
-&lt;p&gt;现在时间：2020年7月26日11时30分。&lt;/p&gt;
-&lt;p&gt;答案是</summary>
+    <summary type="html">&lt;p&gt;要上网课了。&lt;/p&gt;
+&lt;p&gt;我打开我的电脑，关掉Wi-Fi，插上网线，打开网络偏好设置…&lt;/p&gt;
+&lt;p&gt;好了，我的AX88772A绿了…&lt;/p&gt;
+&lt;p&gt;嗯？IPv6地址？&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://pic.edenjohnson.cyou/image</summary>
       
     
     
@@ -513,7 +508,7 @@
     <category term="科技" scheme="https://blog.edenjohnson.cyou/categories/%E7%A7%91%E6%8A%80/"/>
     
     
-    <category term="站点" scheme="https://blog.edenjohnson.cyou/tags/%E7%AB%99%E7%82%B9/"/>
+    <category term="网络" scheme="https://blog.edenjohnson.cyou/tags/%E7%BD%91%E7%BB%9C/"/>
     
   </entry>
   
